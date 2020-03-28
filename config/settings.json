@@ -19,7 +19,7 @@
     "customCss": "",
     "currencySymbol": "LPS ",
     "paymentGateway": "stripe",
-    "databaseConnectionString": "mongodb+srv://leo:leo@cluster0-f2hul.mongodb.net/test?retryWrites=true&w=majority",
+    "databaseConnectionString": "mongodb://127.0.0.1:27017/expresscart",
     "theme": "Cloth",
     "trackStock": false,
     "orderHook": "",
